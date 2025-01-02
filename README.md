@@ -16,11 +16,5 @@ A simple web app built with **HTML**, **CSS**, and **JavaScript** that allows us
 - CSS
 - JavaScript
 
-## Screenshot
-![Passenger Counter App](screenshot.png) <!-- Replace with your actual screenshot path -->
-
-## Live Demo
-[View Live App](#) <!-- Add a live link if hosted -->
-
 ## Author
 [Rajat Pandey](https://github.com/Kevin1skyrj)
